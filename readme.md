@@ -1,6 +1,6 @@
 # AirControl: a Rust Library for Dostmann TFA AIRCO2NTROL Devices
 
-![AirControl Logo](AirControlLogo.webp) { width: 200px; }
+<img src="AirControlLogo.webp" alt="AirControl Logo" width="200"/>
 
 This Rust module provides a high-level interface for interacting with Dostmann TFA AIRCO2NTROL Mini and Coach devices, focusing on monitoring environmental parameters like CO2 levels, temperature, and humidity. It utilizes the `hidapi` library for cross-platform HID communication, ensuring a structured and multithreaded approach to data acquisition and event handling.
 
