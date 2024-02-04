@@ -5,7 +5,7 @@ authors = ["Dennis Eisermann"]
 license = "MIT"
 keywords = ["TFA", "Dostmann", "AIRCO2NTROL", "mini", "coach", "CO2", "co2", "holtek", "zytemp"]
 categories = ["hardware-interface", "sensors", "iot", "monitoring", "cross-plattform"]
-repository = ""
+repository = "https://github.com/DJE98/aircontrol"
 edition = "2021"
 
 [dependencies]
