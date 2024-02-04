@@ -1,0 +1,13 @@
+[package]
+name = "aircontrol"
+version = "1.0.0"
+authors = ["Dennis Eisermann"]
+license = "MIT"
+keywords = ["TFA", "Dostmann", "AIRCO2NTROL", "mini", "coach", "CO2", "co2", "holtek", "zytemp"]
+categories = ["hardware-interface", "sensors", "iot", "monitoring", "cross-plattform"]
+repository = ""
+edition = "2021"
+
+[dependencies]
+hidapi = "2.5.1"
+chrono = "0.4.31"
