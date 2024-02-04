@@ -18,10 +18,6 @@ To add this module in your project, use the following command:
 cargo add aircontrol
 ```
 
-1. Clone this repository or download the source code.
-2. Include the module in your project's source directory.
-3. Add the required dependencies to your `Cargo.toml` file.
-
 ## Usage
 
 Here is a simple example of how to use this interface to monitor environmental parameters:
