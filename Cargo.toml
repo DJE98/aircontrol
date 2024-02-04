@@ -6,6 +6,7 @@ license = "MIT"
 keywords = ["TFA", "Dostmann", "AIRCO2NTROL", "mini", "coach", "CO2", "co2", "holtek", "zytemp"]
 categories = ["hardware-interface", "sensors", "iot", "monitoring", "cross-plattform"]
 repository = "https://github.com/DJE98/aircontrol"
+description = "This Rust module provides a high-level interface for interacting with Dostmann TFA AIRCO2NTROL Mini and Coach devices, focusing on monitoring environmental parameters like CO2 levels, temperature, and humidity. It utilizes the hidapi library for cross-platform HID communication, ensuring a structured and multithreaded approach to data acquisition and event handling."
 edition = "2021"
 
 [dependencies]
